@@ -25,7 +25,7 @@
 3. Стили сейчас недостаточно информативны, можно добавить hover/focus/active эффекты
 
 ## Быстрый запуск
- [Вы можете запустить готовую версию сборки по ссылке, созданной с помощью GitHub Pages](https://semenovdemyan.github.io/test_javacode/)
+ [Вы можете запустить готовую версию сборки по ссылке, созданной с помощью GitHub Pages](https://semenovdemyan.github.io/deal_with_it/)
 
 
 ## Установка
@@ -35,7 +35,7 @@
 3. Запустите сервер разработки. В консоли можно будет увидеть ссылку на локальный сервер разработки
 4. Создайте продакшн-версию. Папка dist создаётся при запуске скрипта автоматически
 ```bash
-   git clone https://github.com/semenovdemyan/test_javacode.git
+   git clone https://github.com/semenovdemyan/deal_with_it.git
    >> npm install
    >> npm run dev
    >> npm run build

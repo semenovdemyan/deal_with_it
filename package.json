@@ -9,7 +9,7 @@
     "build": "tsc -b && vite build",
     "preview": "vite preview",
     "deploy": "vite build && gh-pages -d dist",
-    "open-github-pages": "npx open-cli https://semenovdemyan.github.io/test_javacode/"
+    "open-github-pages": "npx open-cli https://semenovdemyan.github.io/deal_with_it/"
   },
   "dependencies": {
     "react": "^18.3.1",
